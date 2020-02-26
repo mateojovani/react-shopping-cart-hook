@@ -10,7 +10,7 @@ This is an immutable shopping cart api
 ### Installing
 
 ```
-npm i
+yarn install
 
 npm start
 ```
