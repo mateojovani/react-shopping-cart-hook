@@ -5,6 +5,7 @@ A simple and flexible react hook API to abstract the business logic on a shoppin
 ## Behind the motive
 
 This is not a shopping cart component
+
 This is an immutable shopping cart api
 
 ### Installing
